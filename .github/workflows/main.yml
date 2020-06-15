@@ -10,4 +10,4 @@ jobs:
       uses: shalzz/zola-deploy-action@master
       env:
         PAGES_BRANCH: master
-        TOKEN: ${{ secrets.ZOLA_DEPLOY }}
+        TOKEN: ${{ secrets.TOKEN }}
