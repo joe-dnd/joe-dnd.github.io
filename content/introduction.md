@@ -3,14 +3,14 @@ title = "Introduction"
 insert_anchor_links = "right"
 +++
 
-The continent of Ardus is a Campaign setting for Dungeons & Dragons 5th Edition.
+The continent of _____ is a Campaign setting for Dungeons & Dragons 5th Edition.
 
 I aim to use this as a searchable wiki of information about the setting as I build it up, so that both myself and other players can use it as a resource when creating characters, adventurers, and campaigns.
 
 ---
 
-What makes Ardus unique?
-> Ardus is a land where humans are not the dominant race.
+What makes _____ unique?
+> _____ is a land where humans are not the dominant race.
 > The main continent is primarily ruled by a Goblin Eempire, with some areas under the control of a variety of Elves, a collection of Dwarf holds, and a lone Dragonborn Citadel. 
 > Humans are scattered in settlements throughout the world, including a few independent city states that have the strength to hold against the Goblin power.
 
