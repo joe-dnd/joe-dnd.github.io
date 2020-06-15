@@ -1,2 +1,2 @@
-# ardus-world.github.io
+# Joe's D&D Homebrew World
 

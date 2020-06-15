@@ -1,6 +1,6 @@
-base_url = "https://ardus-world.github.io"
+base_url = "https://joe-dnd.github.io"
 
-title = "Ardus"
+title = "Homebrew D&D World"
 Description = """A campaign setting for D&D 5e"""
 
 compile_sass = true
