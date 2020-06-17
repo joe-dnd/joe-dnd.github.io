@@ -1,5 +1,5 @@
 +++
-title = "High Elf"
+title = "Goblinoid"
 insert_anchor_links = "right"
 +++
 

@@ -31,4 +31,4 @@ insert_anchor_links = "right"
 
 1. Variant Encumbrance.
 
-2. 
+2. Massive Damage -> Uses Lingering Injuries Table
