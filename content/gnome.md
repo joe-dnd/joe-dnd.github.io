@@ -1,6 +1,8 @@
 +++
 title = "Gnome"
 insert_anchor_links = "right"
+
+draft = true
 +++
 
 ### Unexpected Fey Wanderers (Forest gnome)

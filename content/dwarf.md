@@ -1,6 +1,8 @@
 +++
 title = "Dwarf"
 insert_anchor_links = "right"
+
+draft = true
 +++
 
 There are 3 great dwarven cities built into the mountains across the lands, the greatest of which is Hvardor Hold, the other two being Kordrumn and Avalorn.

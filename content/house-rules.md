@@ -1,6 +1,8 @@
 +++
 title = "D&D 5e House Rules"
 insert_anchor_links = "right"
+
+draft = false
 +++
 
 ## Standard Rules

@@ -1,6 +1,8 @@
 +++
 title = "Dark Elf"
 insert_anchor_links = "right"
+
+draft = true
 +++
 
 ### Vrukanis - Elven Outcasts (Dark elf)

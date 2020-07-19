@@ -1,6 +1,8 @@
 +++
 title = "Lizardfolk"
 insert_anchor_links = "right"
+
+draft = true
 +++
 
 ### Slaves to the Goblin Empire (Lizardfolk)

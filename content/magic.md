@@ -1,6 +1,8 @@
 +++
 title = "Magic"
 insert_anchor_links = "right"
+
+draft = true
 +++
 
 Magic is a complicated issue in the world.

@@ -1,6 +1,8 @@
 +++
 title = "Goblinoid"
 insert_anchor_links = "right"
+
+draft = true
 +++
 
 ### Goblinoid Empire (Goblin/Hobgoblin/Bugbear)

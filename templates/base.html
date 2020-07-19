@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>_____</title>
+  <title>Joe's Dnd</title>
 
   <link rel="stylesheet" type="text/css" href={{ get_url(path="style.css") }}>
 </head>
@@ -11,11 +11,11 @@
 <body>
     <header>
         <nav class="{% block extra_nav_class %}container{% endblock extra_nav_class %}">
-            <a class="header__logo white" href="{{ config.base_url }}">Zola</a>
+            <a class="banner_title" href="{{ config.base_url }}">WANDERER'S GUIDE TO VALONYA</a>
 
             <div class="search-container">
+                
                 <input id="search" type="search" placeholder="🔎 Search the docs">
-
                 <div class="search-results">
                     <div class="search-results__items"></div>
                 </div>
@@ -24,7 +24,8 @@
     </header>
 
   <section class="section">
-    <div class="container">
+    <div class="container main">
+      <div><a href="{{ config.base_url }}">Menu</a></div>
       {% block content %} {% endblock %}
     </div>
   </section>

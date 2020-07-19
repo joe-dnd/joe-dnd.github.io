@@ -1,6 +1,8 @@
 +++
 title = "Human"
 insert_anchor_links = "right"
+
+draft = true
 +++
 
 ### Luxans - Religious Crusaders/Protectors ('Luxan' Human/Aasimar)

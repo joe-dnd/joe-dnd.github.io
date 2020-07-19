@@ -29,9 +29,32 @@
 }
 
 
-h1 {
+.banner_title {
+    display: block;
     font-family: 'NodestoCapsCondensed';
-    font-size: 62px;
+    font-size: 84px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
+
+.main {
+    margin: auto;
+    width: 50%;
+}
+
+.search-container {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'MrEavesSmallCaps';
+    font-size: 46px;
 }
 
 h2 {
@@ -40,6 +63,7 @@ h2 {
 }
 
 body {
+    background-image: url('images/background_white.jpg');
     font-family: 'Bookinsanity';
 
     b, strong {

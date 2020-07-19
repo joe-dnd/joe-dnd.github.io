@@ -1,6 +1,8 @@
 +++
 title = "Brainstorming"
 insert_anchor_links = "right"
+
+draft = true
 +++
 
 #### Dwarfs are the Greeks
