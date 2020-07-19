@@ -33,7 +33,7 @@ insert_anchor_links = "right"
 
 ## Poisoner's Kit
 ### Create Poison
-* Any posion you have identified can be made.
+* Any poison you have identified can be made.
 * Identify a poison's ingredients by passing a DC 15 Medicine or Nature check.
 * Requires 8 hours per tier to make a poison.
 * Uses ingredients that cost half the price of the poison.
