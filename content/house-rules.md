@@ -41,7 +41,7 @@ draft = false
     - Resurrection incurs an exhaustion level of 5. (initially 6, -1 from spell)
 
 7. Character Creation:
-    - All characters start with a racial feat [XGE.73]
+    - All characters start with a racial feat [[XGE.73]](https://5e.tools/tables.html#racial%20feats_xge)
     - New characters start at the minimum level for the current tier 
         - 1-4
         - 5-10
@@ -50,19 +50,19 @@ draft = false
     - New characters have a +20% xp modifier until they reach the same level as the lowest level party member.
 
 8. Critical Hits:
-    - **Wounds:** Critical hits can be converted into a Wound -> roll on Lingering Injuries table
+    - **Wounds:** Critical hits can be converted into a Wound -> roll on Lingering Injuries table [[DMG.272]](https://5e.tools/tables.html#lingering%20injuries_dmg)
 
 9. Conditions:
     - Using an AOE spell on a creature while you are Blinded gives the creature advantage on the saving throw.
 
 ## Variant Rules used
 
-1. <s>Variant Encumbrance [PHB.176]</s>
+1. <s>Variant Encumbrance [[PHB.176]](https://5e.tools/variantrules.html#encumbrance_phb)</s>
 
 2. Variant Combat Rules:
-    - Climb onto a bigger creature [DMG.271]
-    - Mark [DMG.271]
-    - Disarm [DMG.271]
-    - Tumble [DMG.272]
-    - Overrun [DMG.272]
-    - Hitting cover [DMG.272]
+    - Climb onto a bigger creature [[DMG.271]](https://5e.tools/actions.html#climb%20onto%20a%20bigger%20creature_dmg)
+    - Mark [[DMG.271]](https://5e.tools/actions.html#mark_dmg)
+    - Disarm [[DMG.271]](https://5e.tools/actions.html#disarm_dmg)
+    - Tumble [[DMG.272]](https://5e.tools/actions.html#tumble_dmg)
+    - Overrun [[DMG.272]](https://5e.tools/actions.html#overrun_dmg)
+    - Hitting cover [[DMG.272]](https://5e.tools/variantrules.html#hitting%20cover_dmg)
