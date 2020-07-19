@@ -40,10 +40,21 @@
     -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: black;
 }
+@media screen and (max-width: 768px) {
+    .banner_title {
+        font-size: 42px;
+        -webkit-text-stroke-width: 2px;
+    }
+}
 
 .main {
     margin: auto;
     width: 50%;
+}
+@media screen and (max-width: 768px) {
+    .main {
+        width: 100%;
+    }
 }
 
 .search-container {
@@ -51,15 +62,28 @@
     width: 50%;
     text-align: center;
 }
+@media screen and (max-width: 768px) {
+    .search-container {
+        width: 100%;
+    }
+}
 
 h1 {
     font-family: 'MrEavesSmallCaps';
     font-size: 46px;
+    margin: 0px;
+    padding: 0px;
 }
 
 h2 {
     font-family: 'MrEavesSmallCaps';
     font-size: 24px;
+    margin: 0px;
+    padding: 0px;
+}
+
+h4 {
+    
 }
 
 body {
