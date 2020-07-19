@@ -50,7 +50,7 @@ draft = false
     - New characters have a +20% xp modifier until they reach the same level as the lowest level party member.
 
 8. Critical Hits:
-    - **Wounds:** Critical hits can be converted into a Wound -> roll on Lingering Injuries table [[DMG.272]](https://5e.tools/tables.html#lingering%20injuries_dmg)
+    - **Wounds:** Critical hits (from you or toward you) can be converted into a Wound -> roll on Lingering Injuries table [[DMG.272]](https://5e.tools/tables.html#lingering%20injuries_dmg)
 
 9. Conditions:
     - Using an AOE spell on a creature while you are Blinded gives the creature advantage on the saving throw.
