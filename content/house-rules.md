@@ -57,7 +57,7 @@ draft = false
 
 ## Variant Rules used
 
-1. ~~Variant Encumbrance [PHB.176]~~
+1. <s>Variant Encumbrance [PHB.176]</s>
 
 2. Variant Combat Rules:
     - Climb onto a bigger creature [DMG.271]
