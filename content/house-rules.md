@@ -13,14 +13,23 @@ draft = false
 
 ## Homebrew Rules
 
-1. 
+1. Available Races:
+    - Human / Variant Human
+    - Dwarf
+    - Halfling
+    - Gnome
+    - Elf (High/Wood/Dark)
+    - Dragonborn
+    - Tiefling
+    - Goblinoid
+    - Lizardfolk
 
 2. In-game XP: 
-    - Bonus xp for intelligent solutions & character roleplay. (15*lvl up to 3 times)
+    - Bonus xp for intelligent solutions & character roleplay. (15 x Level up to 3 times)
 
 3. Out-of-game XP:
     - Half xp for absent players.
-    - Bonus xp for being on-time. (10*lvl)
+    - Bonus xp for being on-time. (10 x Level)
 
 4. Level up:
     - Requires 2 hours downtime.
@@ -48,7 +57,7 @@ draft = false
 
 ## Variant Rules used
 
-1. Variant Encumbrance [PHB.176]
+1. ~~Variant Encumbrance [PHB.176]~~
 
 2. Variant Combat Rules:
     - Climb onto a bigger creature [DMG.271]
