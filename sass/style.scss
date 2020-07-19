@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'NodestoCapsCondensed';
+    src: url('fonts/Nodesto Caps Condensed.otf') format('opentype'); 
+}
+
+@font-face {
+    font-family: 'MrEavesSmallCaps';
+    src: url('fonts/Mr Eaves Small Caps.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Bookinsanity';
+    src: url('fonts/Bookinsanity.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'BookinsanityBold';
+    src: url('fonts/Bookinsanity Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'BookinsanityItalic';
+    src: url('fonts/Bookinsanity Italic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'BookinsanityBoldItalic';
+    src: url('fonts/Bookinsanity Bold Italic.otf') format('opentype');
+}
+
+
+h1 {
+    font-family: 'NodestoCapsCondensed';
+    font-size: 62px;
+}
+
+h2 {
+    font-family: 'MrEavesSmallCaps';
+    font-size: 24px;
+}
+
+body {
+    font-family: 'Bookinsanity';
+
+    b, strong {
+        font-family: 'BookinsanityBold';
+    }
+}

@@ -11,24 +11,47 @@ insert_anchor_links = "right"
 
 ## Homebrew Rules
 
-1. New characters joining the party start at the minimum level for the current tier (1-4, 5-10, 11-16, 17-20), with a +20% xp modifier until they reach the same level as the lowest level party member.
+1. 
 
-2. Half xp for absent players.
+2. In-game XP: 
+    - Bonus xp for intelligent solutions & character roleplay. (15*lvl up to 3 times)
 
-3. Bonus xp for intelligent solutions & character roleplay. (+15 up to 3 times)
+3. Out-of-game XP:
+    - Half xp for absent players.
+    - Bonus xp for being on-time. (10*lvl)
 
-4. Bonus xp for being on-time. (+10)
-
-4. Leveling up requires 2 hours downtime, during a long rest.
+4. Level up:
+    - Requires 2 hours downtime.
+    - Requires a long rest.
 
 5. Using a potion on yourself is bonus action. On others is still an action.
 
-6. Resurrection incurs an exhaustion level of 5. (initially 6, -1 from spell)
+6. Death:
+    - Resurrection incurs an exhaustion level of 5. (initially 6, -1 from spell)
 
-7. All characters start with a racial feat.
+7. Character Creation:
+    - All characters start with a racial feat [XGE.73]
+    - New characters start at the minimum level for the current tier 
+        - 1-4
+        - 5-10
+        - 11-16
+        - 17-20)
+    - New characters have a +20% xp modifier until they reach the same level as the lowest level party member.
+
+8. Critical Hits:
+    - **Wounds:** Critical hits can be converted into a Wound -> roll on Lingering Injuries table
+
+9. Conditions:
+    - Using an AOE spell on a creature while you are Blinded gives the creature advantage on the saving throw.
 
 ## Variant Rules used
 
-1. Variant Encumbrance.
+1. Variant Encumbrance [PHB.176]
 
-2. Massive Damage -> Uses Lingering Injuries Table
+2. Variant Combat Rules:
+    - Climb onto a bigger creature [DMG.271]
+    - Mark [DMG.271]
+    - Disarm [DMG.271]
+    - Tumble [DMG.272]
+    - Overrun [DMG.272]
+    - Hitting cover [DMG.272]
