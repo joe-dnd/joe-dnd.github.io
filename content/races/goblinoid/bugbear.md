@@ -1,6 +1,6 @@
 +++
-title = "Half-Orc"
+title = "Bugbear"
 insert_anchor_links = "right"
 
-draft = true
+draft = false
 +++

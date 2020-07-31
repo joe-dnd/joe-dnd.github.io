@@ -1,6 +1,6 @@
 +++
-title = "Half-Elf"
+title = "Hobgoblin"
 insert_anchor_links = "right"
 
-draft = true
+draft = false
 +++

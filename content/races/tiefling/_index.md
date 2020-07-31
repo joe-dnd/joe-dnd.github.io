@@ -1,8 +1,8 @@
 +++
-title = "Tiefling"
-insert_anchor_links = "right"
-
-draft = true
+title = "Tieflings"
+sort_by = "none"
+template = "index.html"
+page_template = "entry.html"
 +++
 
 ### The corrupted humans of Sarovel

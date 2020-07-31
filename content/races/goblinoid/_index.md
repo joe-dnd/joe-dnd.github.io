@@ -1,8 +1,8 @@
 +++
-title = "Goblinoid"
-insert_anchor_links = "right"
-
-draft = true
+title = "Goblinoids"
+sort_by = "none"
+template = "index.html"
+page_template = "entry.html"
 +++
 
 ### Goblinoid Empire (Goblin/Hobgoblin/Bugbear)

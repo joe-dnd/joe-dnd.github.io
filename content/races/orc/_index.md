@@ -1,8 +1,8 @@
 +++
-title = "Orc"
-insert_anchor_links = "right"
-
-draft = true
+title = "Orcs"
+sort_by = "none"
+template = "index.html"
+page_template = "entry.html"
 +++
 
 **Non-playable**

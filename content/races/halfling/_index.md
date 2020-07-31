@@ -1,8 +1,8 @@
 +++
-title = "Halfling"
-insert_anchor_links = "right"
-
-draft = true
+title = "Halflings"
+sort_by = "none"
+template = "index.html"
+page_template = "entry.html"
 +++
 
 ### Secretive Hin Gypsy Caravans - (Lightfoot/Stout Halfling)
