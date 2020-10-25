@@ -25,7 +25,14 @@ draft = false
     - Lizardfolk
 
 2. In-game XP: 
-    - Bonus xp for intelligent solutions & character roleplay. (15 x Level up to 3 times)
+    - Bonus xp for intelligent solutions & impressive roleplay. (15 x Level up to 3 times)
+    - +10% xp modifier for general roleplaying
+      - Using character voice
+      - Keeping discussions (strategy/tactics) in-character, e.g. 
+        - consider character personality; 
+        - consider ability to hear what is said; 
+        - consider what your character knows
+        - in combat, commands/suggestions should be made on your turn, and should be short instructions
 
 3. Out-of-game XP:
     - Half xp for absent players.
@@ -38,7 +45,8 @@ draft = false
 5. Using a potion on yourself is bonus action. On others is still an action.
 
 6. Death:
-    - Resurrection incurs an exhaustion level of 5. (initially 6, -1 from spell)
+    - Resurrection incurs a penalty 1 hit die removed from hit die max.
+    - Resurrection applies 1 permanent failed death save, each time. (max 3)
 
 7. Character Creation:
     - All characters start with a racial feat [[XGE.73]](https://5e.tools/tables.html#racial%20feats_xge)
@@ -47,7 +55,7 @@ draft = false
         - 5-10
         - 11-16
         - 17-20)
-    - New characters have a +20% xp modifier until they reach the same level as the lowest level party member.
+    - New characters have a +25% xp modifier until they reach the same level as the lowest level party member.
 
 8. Critical Hits:
     - **Wounds:** Critical hits (from you or toward you) can be converted into a Wound -> roll on Lingering Injuries table [[DMG.272]](https://5e.tools/tables.html#lingering%20injuries_dmg)
