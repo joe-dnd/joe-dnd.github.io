@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <header>
+    {# <header>
         <nav class="{% block extra_nav_class %}container{% endblock extra_nav_class %}">
             <a class="banner_title" href="{{ config.base_url }}">JOE'S HOMEBREW SHIT</a>
 
@@ -29,11 +29,30 @@
       <div><a href="{{ config.base_url }}">Menu</a></div>
       {% block content %} {% endblock %}
     </div>
-  </section>
+  </section> #}
+  {# <div class="layout"> #}
+  <div class="layout">
+    <div class="sidebar">
+      <nav class="directory">
+        {% block index %} 
+        {% endblock %}
+      </nav>
+    </div>
 
-    <script type="text/javascript" src="{{ get_url(path="elasticlunr.min.js") }}"></script>
-    <script type="text/javascript" src="{{ get_url(path="search_index.en.js") }}"></script>
-    <script type="text/javascript" src="{{ get_url(path="search.js") }}"></script>
+    <div class="content">
+      <div class="header">
+        <a class="banner" href="{{ config.base_url }}">EAHR: CAMPAIGN SETTING</a>
+      </div>
+      <div>
+        {% block content %} 
+        {% endblock %}
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="{{ get_url(path="elasticlunr.min.js") }}"></script>
+  <script type="text/javascript" src="{{ get_url(path="search_index.en.js") }}"></script>
+  <script type="text/javascript" src="{{ get_url(path="search.js") }}"></script>
 </body>
 
 </html>

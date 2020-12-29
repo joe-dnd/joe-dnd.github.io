@@ -29,7 +29,7 @@
 }
 
 
-.banner_title {
+.banner {
     display: block;
     font-family: 'NodestoCapsCondensed';
     font-size: 84px;
@@ -93,4 +93,49 @@ body {
     strong {
         font-family: 'BookinsanityBold';
     }
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+
+  width: 800px;
+  margin: 0 auto;
+}
+
+.sidebar {
+  border: 1px solid black;
+
+  width: 200px;
+  height: 100vh;
+
+  .directory {
+    font-size: 12px;
+  }
+  
+}
+
+.content {
+  border: 1px solid black;
+  height: 100vh;
+
+  display: grid;
+  grid-template-rows: 100px 1fr;
+}
+
+.header {
+  border: 1px solid black;
+
+  .banner {
+    // display: block;
+    padding: 10px 20px;
+    font-family: 'NodestoCapsCondensed';
+    font-size: 64px;
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    width: 100%;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+  }
 }

@@ -63,6 +63,10 @@ draft = false
 9. Conditions:
     - Using an AOE spell on a creature while you are Blinded gives the creature advantage on the saving throw.
 
+10. Resting:
+    - Rests require you eat something (e.g. rations)
+    - Spending Hit dice requires expending 1 use of a Healer's kit
+
 ## Variant Rules used
 
 1. <s>Variant Encumbrance [[PHB.176]](https://5e.tools/variantrules.html#encumbrance_phb)</s>

@@ -1,26 +1,29 @@
 {% extends "base.html" %}
 
-{% block content %}
-<h1 class="title">
-  {{ section.title }}
-</h1>
+{% block index %}
 
 <ul>
-
-  {% for section in section.subsections %}
-									
-    {% set subsection = get_section(path=section) %}
-                    
-    <li>
-        <a href="{{subsection.permalink | safe}}">{{ subsection.title }}</a>
-    </li>
-                    
+  
+  {% for subsection_path in section.subsections %}
+    {% set subsection = get_section(path=subsection_path) %}
+    <li><a href="{{ subsection.permalink | safe }}">{{ subsection.title  }}</a></li>
+    <ul>
+    {% for sub_subsection_path in subsection.subsections %}
+      {% set sub_subsection = get_section(path=sub_subsection_path) %}
+      <li><a href="{{ sub_subsection.permalink | safe }}">{{ sub_subsection.title }}</a></li>
+    {% endfor %}
+    {% for page in subsection.pages %}
+      {# {% set page = get_page(path=page_path) %} #}
+      <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+    {% endfor %}
+    </ul>
   {% endfor %}
-
-
-  {% for h1 in section.pages %}
-    <li><a href="{{ h1.permalink | safe }}">{{ h1.title }}</a></li>
+  {% for page in section.pages %}
+    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
   {% endfor %}
 </ul>
+{% endblock index %}
+
+{% block content %}
 <p>{{ section.content | safe }}</p>
 {% endblock content %}

@@ -6,38 +6,12 @@ draft = false
 +++
 
 ---
-**Day** = 24 hours, **Week** = 7 days, **Month** = 4 weeks, **Year** = 12 months.
-
----
-
-## Days of the Week
-- Firstday 
-- Secondday 
-- Thirdday
-- Fourthday
-- Fifthday
-- Sixthday
-- Seventhday
+**Day** = 24 hours, **Week** = 5 days, **Month/Season** = 10 weeks/50 days, **Year** = 40 weeks/200 days.
 
 ---
 
 ## Months of the Year
-**Spring**
-- Springrise
-- Springcrown
-- Springfall
-
-**Summer**
-- Summerrise
-- Summercrown
-- Summerfall
-
-**Autumn**
-- Autumnrise
-- Autumncrown
-- Autumnfall
-
-**Winter**
-- Winterrise
-- Wintercrown
-- Winterfall
+Spring
+Summer
+Autumn
+Winter
