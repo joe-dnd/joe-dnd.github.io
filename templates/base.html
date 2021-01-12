@@ -31,13 +31,13 @@
     </div>
   </section> #}
   {# <div class="layout"> #}
-  <div class="layout">
-    <div class="sidebar">
+  {# <div class="layout"> #}
+    {# <div class="sidebar">
       <nav class="directory">
         {% block index %} 
         {% endblock %}
       </nav>
-    </div>
+    </div> #}
 
     <div class="content">
       <div class="header">
@@ -49,7 +49,7 @@
         {% endblock %}
       </div>
     </div>
-  </div>
+  {# </div> #}
 
   <script type="text/javascript" src="{{ get_url(path="elasticlunr.min.js") }}"></script>
   <script type="text/javascript" src="{{ get_url(path="search_index.en.js") }}"></script>

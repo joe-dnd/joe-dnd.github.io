@@ -119,8 +119,11 @@ body {
   // border: 1px solid black;
   height: 100vh;
 
-  display: grid;
-  grid-template-rows: 100px 1fr;
+  margin: 0 auto;
+  width: 600px;
+
+  // display: grid;
+  // grid-template-rows: 100px 1fr;
 }
 
 .header {
