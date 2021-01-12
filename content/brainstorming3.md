@@ -5,7 +5,7 @@ insert_anchor_links = "right"
 draft = false
 +++
 
-Bahamut & Tiamat, are the God Dragons, with immense power stemming from their divine souls.
+Bahamut & Tiamat are the God Dragons, possessing immense power stemming from their divine souls.
 
 Dragonkind have innate divine magic, due to their ancestry.
 
