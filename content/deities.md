@@ -36,4 +36,4 @@ Elves do not worship any gods.
 
 Humans of the Luxan Territories follow the Light Eternal, a diety that was unknown to this region of the world. It is followed by the Luxans as they were gifted the divine power to fight against the demons that constantly attack their native lands. It bestows additional power upon certain individuals it deems worthy of being its Champions - this is how Aasimar are created.
 
-Many groups pray to different regional 'Hero' gods. 
+Many groups pray to different regional 'Hero' gods. Figures from history and legend who were deemed to have risen to godhood. There is little to no proof of these Hero Gods existing, yet religious groups have still grown in their names, and some followers have found themselves gifted with divine magical powers through their worship.
