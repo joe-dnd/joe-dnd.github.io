@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joe-dnd.github.io/sitemap.xml
